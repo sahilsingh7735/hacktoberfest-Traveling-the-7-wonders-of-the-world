@@ -15,14 +15,14 @@ In the project directory, you can run:
 
 # How to Contribute
 
-💎 Fork this repository📑  💎 [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-💎 Clone the forked repository into local space
-💎 Do the changes
-💎 Optional 💎 You can add comments at the start of the file, if you want to share something, like steps to run the code etc
-💎 Add and commit the changes. 📷(Please do not make changes in any other file, but if you want to work on bug/improvement then add an issue first)
-💎 Don't forget to add your name, image url, country and the language used in [contributor file](https://github.com/PriyanshTri/Landing-page/blob/main/contributor.md)
-💎 Generate a Pull Request (Optional: add issue name in the title and url to the problem in description)
-💎 That's it, We are done!!
+💎 Fork this repository📑  💎 [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request) <br />
+💎 Clone the forked repository into local space <br />
+💎 Do the changes <br />
+💎 Optional 💎 You can add comments at the start of the file, if you want to share something, like steps to run the code etc <br />
+💎 Add and commit the changes. 📷(Please do not make changes in any other file, but if you want to work on bug/improvement then add an issue first) <br />
+💎 Don't forget to add your name, image url, country and the language used in [contributor file](https://github.com/PriyanshTri/Landing-page/blob/main/contributor.md) <br />
+💎 Generate a Pull Request (Optional: add issue name in the title and url to the problem in description) <br />
+💎 That's it, We are done!!<br />
 
 
 # How to Sync Forked Repo from Upstream Repo 🤷‍♂️
