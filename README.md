@@ -1,11 +1,11 @@
 # Web Application ✨
 ## create a landing page with <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-💎 A landing page as main page :page
-💎 A section of photos captured by me 📷
-💎 My experience  📶 
-💎 A resume page 📑 
-💎 About section and
-💎 Social media handles 📱
+💎 A landing page as main page <br />
+💎 A section of photos captured by me 📷 <br />
+💎 My experience  📶 <br />
+💎 A resume page 📑 <br />
+💎 About section and <br />
+💎 Social media handles 📱 <br />
 
 ## Anyone can use this repo and can make a proper landing page with little knowledge of programming 👨‍💻 :
 This project was bootstrapped with [Landing Page App](https://github.com/PriyanshTri/Landing-page.git).
