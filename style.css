@@ -1,0 +1,16 @@
+.imgm{
+    max-width: 200px;
+    /* height: 50vh; */
+    margin-right: 5px;
+}
+.imgm{
+    display: block;
+    margin: auto;
+}
+.slim{
+    width: 50%;
+    height: 40vh;
+}
+.wtob{
+    color: rgb(249, 243, 243);
+}
