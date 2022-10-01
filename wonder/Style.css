@@ -1,5 +1,5 @@
 .box{
-    background-image: url(images/photo.jpeg);
+    background-image: url(photo.jpeg);
      /* Set rules to fill background */
   min-height: 100%;
   min-width: 1024px;
