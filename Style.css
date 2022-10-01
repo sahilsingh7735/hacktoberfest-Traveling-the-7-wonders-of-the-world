@@ -1,0 +1,30 @@
+    body {
+      background-image: url("img/ROG.jpg");
+      margin-right: 200px;
+      background-attachment: fixed;
+    }
+  div{
+    top: 10px;
+    left :30px;  
+    wight: 100px;
+    height: 100px;
+    position: relative;
+    margin-right: 50px;
+
+  }
+  div.red{
+    background: #ff0000;
+      z-index: -1;
+  }
+  div.green{
+    background: #00ff00;
+    opacity: 0.6;
+    z-index: 0;
+    
+  }
+  div.blue{
+    background: #0000ff;
+    opacity: 0.6;
+    z-index: 1;
+  }
+
