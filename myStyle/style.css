@@ -1,0 +1,30 @@
+
+.headText {
+  margin: 1rem auto 1rem 7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  color: #937DC2;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel {
+  height: 80vh;
+  padding-bottom: 2rem;
+}
+
+.carousel-inner {
+  height: 100%;
+}
+
+.carousel-item {
+  height: 100%;
+}
+
+.carousel-caption h5 {
+  color: #256D85;
+  font-weight: 700;
+}
