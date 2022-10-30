@@ -1,0 +1,38 @@
+body {
+  background-color: #EEF2E6;
+}
+
+h1 {
+  color: #4C0033;
+  margin-left: 20px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+h2
+{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  color: #4C0033;
+}
+p
+{
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+ li{
+   font-size: 20px;
+ }
+img
+{
+  border: 3px solid #4C0033;
+  width: 500px;
+  height: 300px;
+}
+.center {
+  text-align: left;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
