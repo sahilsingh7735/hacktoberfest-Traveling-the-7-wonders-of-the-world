@@ -1,4 +1,3 @@
-
 .headText {
   margin: 1rem auto 1rem 7rem;
   font-size: 4rem;
@@ -9,6 +8,7 @@
 .carousel-item img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
 }
 
 .carousel {

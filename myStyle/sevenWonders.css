@@ -8,31 +8,39 @@ h1 {
   font-size: 30px;
   font-family: "Times New Roman", Times, serif;
 }
-h2
-{
+
+h2 {
   font-family: "Times New Roman", Times, serif;
   font-size: 25px;
   color: #4C0033;
 }
-p
-{
+
+p {
   margin-left: 20px;
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
 }
- li{
-   font-size: 20px;
- }
-img
-{
+
+li {
+  font-size: 20px;
+}
+
+img {
   border: 3px solid #4C0033;
   width: 500px;
   height: 300px;
 }
+
 .center {
   text-align: left;
   padding-top: 10px;
   padding-right: 50px;
   padding-bottom: 50px;
   padding-left: 80px;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
 }
